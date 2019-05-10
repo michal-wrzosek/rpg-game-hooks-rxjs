@@ -1,16 +1,14 @@
 import React from "react";
-import { Observable } from "rxjs/Observable";
 
-const observable = Observable.create(observer => {
-  observer.next("Test");
-});
-
-observable.subs;
-
+import { Test } from "containers/Test/Test";
 import "./App.css";
 
 function App() {
-  return <div className="App" />;
+  return (
+    <div className="App">
+      <Test />
+    </div>
+  );
 }
 
 export default App;
