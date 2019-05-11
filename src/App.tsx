@@ -1,13 +1,18 @@
 import React from "react";
+import styled from 'styled-components';
 
-import { Test } from "containers/Test/Test";
-import "./App.css";
+import { Canvas } from "containers/Canvas/Canvas";
+
+const Wrapper = styled.div`
+  padding: 20px;
+`;
 
 function App() {
   return (
-    <div className="App">
-      <Test />
-    </div>
+    <Wrapper>
+      <Canvas />
+      <div>Use Arrow Keys to move black dot</div>
+    </Wrapper>
   );
 }
 
