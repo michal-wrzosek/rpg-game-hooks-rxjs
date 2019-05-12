@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf977ea7cb76f80b261b59ba678cdd37",
+    "revision": "db3370be177e425032ebeda1f10b942c",
     "url": "/rpg-game-hooks-rxjs/index.html"
   },
   {
-    "revision": "da5e157895560f686485",
+    "revision": "feb14f487db7802b3983",
     "url": "/rpg-game-hooks-rxjs/static/css/main.672530e5.chunk.css"
   },
   {
-    "revision": "ea89449ee93e0dd1eaaa",
-    "url": "/rpg-game-hooks-rxjs/static/js/2.ff689b23.chunk.js"
+    "revision": "cd861e75f539e6f5b8f8",
+    "url": "/rpg-game-hooks-rxjs/static/js/2.3a74504d.chunk.js"
   },
   {
-    "revision": "da5e157895560f686485",
-    "url": "/rpg-game-hooks-rxjs/static/js/main.e41541d9.chunk.js"
+    "revision": "feb14f487db7802b3983",
+    "url": "/rpg-game-hooks-rxjs/static/js/main.7f8dde6e.chunk.js"
   },
   {
     "revision": "d6c1612b69219d956470",

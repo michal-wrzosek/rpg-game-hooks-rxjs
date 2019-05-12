@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rpg-game-hooks-rxjs/static/css/main.672530e5.chunk.css",
-    "main.js": "/rpg-game-hooks-rxjs/static/js/main.e41541d9.chunk.js",
-    "main.js.map": "/rpg-game-hooks-rxjs/static/js/main.e41541d9.chunk.js.map",
+    "main.js": "/rpg-game-hooks-rxjs/static/js/main.7f8dde6e.chunk.js",
+    "main.js.map": "/rpg-game-hooks-rxjs/static/js/main.7f8dde6e.chunk.js.map",
     "runtime~main.js": "/rpg-game-hooks-rxjs/static/js/runtime~main.77b722ff.js",
     "runtime~main.js.map": "/rpg-game-hooks-rxjs/static/js/runtime~main.77b722ff.js.map",
-    "static/js/2.ff689b23.chunk.js": "/rpg-game-hooks-rxjs/static/js/2.ff689b23.chunk.js",
-    "static/js/2.ff689b23.chunk.js.map": "/rpg-game-hooks-rxjs/static/js/2.ff689b23.chunk.js.map",
+    "static/js/2.3a74504d.chunk.js": "/rpg-game-hooks-rxjs/static/js/2.3a74504d.chunk.js",
+    "static/js/2.3a74504d.chunk.js.map": "/rpg-game-hooks-rxjs/static/js/2.3a74504d.chunk.js.map",
     "index.html": "/rpg-game-hooks-rxjs/index.html",
-    "precache-manifest.4d2f8cfc5ca0ee2a8d082b87a203bf12.js": "/rpg-game-hooks-rxjs/precache-manifest.4d2f8cfc5ca0ee2a8d082b87a203bf12.js",
+    "precache-manifest.f2450d510c9355f4fd562874cc9de7ee.js": "/rpg-game-hooks-rxjs/precache-manifest.f2450d510c9355f4fd562874cc9de7ee.js",
     "service-worker.js": "/rpg-game-hooks-rxjs/service-worker.js",
     "static/css/main.672530e5.chunk.css.map": "/rpg-game-hooks-rxjs/static/css/main.672530e5.chunk.css.map"
   }
