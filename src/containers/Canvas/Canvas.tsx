@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { createPlayer } from 'observables/Player';
+import { createPlayer, AccDirections } from 'observables/Player';
 import { keysPressed, KEYS } from 'observables/KeysPressed';
 
 const CanvasStyled = styled.canvas`
@@ -19,19 +19,23 @@ export const Canvas = () => {
 
       keysPressed.subscribe((keys) => {
         if (keys.includes(KEYS.ARROW_DOWN)) {
-          player.moveDown();
+          player.move(AccDirections.DOWN);
         }
 
         if (keys.includes(KEYS.ARROW_UP)) {
-          player.moveUp();
+          player.move(AccDirections.UP);
         }
 
         if (keys.includes(KEYS.ARROW_RIGHT)) {
-          player.moveRight();
+          player.move(AccDirections.RIGHT);
         }
 
         if (keys.includes(KEYS.ARROW_LEFT)) {
-          player.moveLeft();
+          player.move(AccDirections.LEFT);
+        }
+
+        if (keys.length === 0) {
+          player.move(AccDirections.NONE);
         }
       });
 
